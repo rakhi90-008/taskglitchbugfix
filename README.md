@@ -156,24 +156,21 @@ src/
 └── index.js
 
 Installation & Setup
-git clone https://github.com/sanjeev-cmyk/task-glitch.git
+https://github.com/rakhi90-008/Task-Glitch-Bug-Fix-Implementation
 cd task-glitch
 npm install
 npm start
 
 Deployment
 
-The application must be deployed publicly.
+The application will be deployed publicly.
 
-Recommended platforms:
 
 Vercel
 
-Netlify
+ URL:
 
-Example URL format:
-
-https://yourname-taskglitch.vercel.app
+https://vercel.com/rakeshmarikanti90-gmailcoms-projects/taskglitchbugfix
 
 Evaluation Criteria Covered
 
